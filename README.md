@@ -8,7 +8,7 @@ looking to make their mark on the software engineering and game development worl
 - 🌱 I’m currently learning Java
 - 📫 How to reach me cameronbowen075@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cameronbowen09&theme=great-gatsby=true)
 
 <!---
 CameronBowen09/CameronBowen09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
