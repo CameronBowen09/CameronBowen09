@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/cameronbowen09?logo=github&style=fo
 
 <a href="http://www.github.com/cameronbowen09"><img src="https://github-readme-stats.vercel.app/api?username=cameronbowen09&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=1c1917&hide_border=true&show_icon=true" alt="Cameron Bowen's GitHub stats" /></a>
 
-<a href="https://github.com/cameronbowen09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbowen09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cameronbowen09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbowen09&langs_count=10&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!---
 CameronBowen09/CameronBowen09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
