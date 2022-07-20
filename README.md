@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/cameronbowen09?logo=github&style=fo
 
 <a href="http://www.github.com/cameronbowen09"><img src="https://github-readme-stats.vercel.app/api?username=cameronbowen09&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=1c1917&hide_border=true&show_icon=true" alt="Cameron Bowen's GitHub stats" /></a>
 
-<a href="http://www.github.com/cameronbowen09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbowen09&stroke=FF8C00&background=0f172a&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=FF8C00&sideLabels=FF8C00&dates=FF8C00&hide_border=true" /></a>
+<a href="http://www.github.com/cameronbowen09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbowen09&stroke=ffffff&background=1c1917&ring=FF8C00&fire=880808&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/cameronbowen09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbowen09&langs_count=10&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
