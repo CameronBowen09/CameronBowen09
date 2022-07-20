@@ -14,7 +14,8 @@ looking to make their mark on the software engineering and game development worl
 - 🌱 I’m currently learning Java
 - 📫 How to reach me cameronbowen075@gmail.com
 
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cameronbowen09&theme=gruvbox=true)
+<a href="https://www.github.com/cameronbowen09" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/cameronbowen09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <!---
 CameronBowen09/CameronBowen09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
