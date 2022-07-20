@@ -1,4 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cameron Bowen
+=====================================================================================================================================
 
 I am currently studying at Code Collage in SA. I am a Junior Software Engineer. I have studied Python, Java, Javascript, HTML, CSS, SQL and PHP. 
 I have completed seven Software Engineering courses. I am very keen to work in the industry and be integrated into a dynamic team within a Company 
