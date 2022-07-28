@@ -9,7 +9,7 @@ I have completed seven Software Engineering courses. I am very keen to work in t
 where I can  grow and contribute as I gain hands on experience and continue to up-skill my knowledge to a more advanced level. I am a 23 year old 
 looking to make their mark on the software engineering and game development world.
 
-- 👋 Hi, I’m Cameron Bowen
+- 👋 Hi, I’m Cameron Bowen!
 - 👀 I’m interested in Coding, Gaming and Traveling
 - 🌱 I’m currently learning Java
 - 📫 How to reach me cameronbowen075@gmail.com
